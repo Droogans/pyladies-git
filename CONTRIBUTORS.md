@@ -1,7 +1,13 @@
+Hi
+
 ## Huge thanks to the following:
 
-Hi
-Kacieee
-Geekdom
-Rackspace
-PIZZA!!!
+## Mostly
+
+ - Geekdom
+ - Kacieee
+ - Rackspace
+
+## But also
+
+ - PIZZA!!!
